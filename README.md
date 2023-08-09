@@ -1,17 +1,5 @@
 ![Web Developer]
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://scontent.fdac88-1.fna.fbcdn.net/v/t39.30808-6/278124104_552679672947984_5781435726701501307_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEkfsrq6hsI6soyeOxvfFz7yUVsGWRhn87JRWwZZGGfzp-aiLELJapmWK-X2zsiLSNdUpywRmKL13pB2gIayh0E&_nc_ohc=dIblEnpNRnQAX_-Sjmw&_nc_ht=scontent.fdac88-1.fna&oh=00_AfCffzfjs7JSKqVUzByI5uFZtbrajR2YyHH_Xmc52aa0_A&oe=64D93FF6)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
 
 ### Hi there 👋, Hi i'm Bulbul Islam
 #### Web Developer
