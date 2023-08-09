@@ -1,4 +1,4 @@
-![Web Developer]https://www.facebook.com/photo/?fbid=851778686371413&set=a.102446757971280
+![Web Developer]
 ### Hi there 👋, Hi i'm Bulbul Islam
 #### Web Developer
 
